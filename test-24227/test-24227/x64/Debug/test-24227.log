@@ -1,0 +1,3 @@
+﻿  24227.c
+C:\Users\atmos\Desktop\VS2022\test-24227\test-24227\24227.c(10,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test-24227.vcxproj -> C:\Users\atmos\Desktop\VS2022\test-24227\x64\Debug\test-24227.exe
